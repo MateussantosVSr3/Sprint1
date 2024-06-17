@@ -1,10 +1,10 @@
 # Projeto de Controle de LEDs e Telemetria com Display LCD I2C
 
--Mateus dos Santos: 558436
--Lucas Imparato: 554896
--André de Maria: 556384
--Victória Moura: 555474
--Nickolas Cardoso: 557132
+- Mateus dos Santos: 558436
+- Lucas Imparato: 554896
+- André de Maria: 556384
+- Victória Moura: 555474
+- Nickolas Cardoso: 557132
 
 Este projeto utiliza um display LCD com interface I2C e LEDs para exibir informações de telemetria simuladas, como velocidade, RPM e temperatura dos pneus. Os LEDs são controlados sequencialmente no início do programa.
 
